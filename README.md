@@ -5,7 +5,7 @@ Maximize Control plugin for Leaflet.
 
 Adds a button allowing user to maximize map to the whole page.
 
-Check out the [example](http://keta.github.io/leaflet-control-maximize/example.html).
+Check out the [example](http://sashakavun.github.io/leaflet-control-maximize/example.html).
 
 
 Browser Support
